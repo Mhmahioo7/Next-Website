@@ -1,0 +1,60 @@
+section {
+    display: flex;
+    margin-block-end: 80px;
+}
+
+body {
+    margin-left: 50px;
+}
+
+section img {
+    width: 60%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(54, 209, 244), rgb(252, 85, 227));
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 7px;
+}
+
+.heading-position {
+    text-align: center;
+}
+
+.year-color {
+    color: aqua;
+}
+
+.box-class {
+    display: flex;
+}
+
+.div-edit {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: rgb(180, 235, 216);
+}
+
+
+.speech-writing {
+    margin-right: 150px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.pro-write {
+    padding-right: 60px;
+}
